@@ -1,6 +1,7 @@
 ---
 marp: true
-theme: default
+theme: midnight
+transition: fade
 footer: 'https://example.com'
 style: |
   .columns {
@@ -20,7 +21,7 @@ style: |
   
   @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css'
 ---
-
+<!-- _class: "title-slide" -->
 # My Presentation
 ![bg right](https://picsum.photos/800/600)
 

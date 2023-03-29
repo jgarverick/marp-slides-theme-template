@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.4.0",
+    "@marp-team/marpit": "^2.4.2",
+    "@supercharge/fs": "^3.4.0",
+    "node-sass": "^8.0.0"
+  }
+}
