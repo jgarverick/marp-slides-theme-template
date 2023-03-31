@@ -1,0 +1,14 @@
+/* @theme sunset */
+
+/* Color variables */
+$theme-background: #f4f8c1;
+$h1-font-color: #441404;
+$h2-font-color: #9c2b04;
+$h3-font-color: #f4bf07;
+$h4-font-color: #ec662d;
+
+$title-slide-bg-color: #9c2b04;
+$title-slide-h1-color: #f4bf07;
+
+@import '../common.scss';
+@import '../title-slide.scss'

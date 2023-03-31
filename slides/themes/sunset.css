@@ -1,0 +1,31 @@
+/* @theme sunset */
+/* Color variables */
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css';
+/* Formatting defaults */
+section {
+  background-color: #f4f8c1;
+  font-size: 22px;
+  font-family: Rajdhani, Callibri, Arial;
+  padding: 10px; }
+
+h1 {
+  color: #441404;
+  font-size: 60px; }
+
+h2 {
+  color: #9c2b04;
+  font-size: 48px; }
+
+h3 {
+  color: #f4bf07;
+  font-size: 32px; }
+
+footer {
+  margin-top: 88%;
+  margin-left: 10px; }
+
+section.title-slide {
+  background-color: #9c2b04; }
+
+section.title-slide h1 {
+  color: #f4bf07; }

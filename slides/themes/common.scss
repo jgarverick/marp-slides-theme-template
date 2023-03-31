@@ -1,0 +1,29 @@
+@import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css';
+
+/* Formatting defaults */
+section {
+    background-color: $theme-background;
+    font-size: 22px;
+    font-family: Rajdhani, Callibri, Arial;
+    padding: 10px;
+}
+
+h1 {
+    color: $h1-font-color;
+    font-size: 60px;
+}
+
+h2 {
+    color: $h2-font-color;
+    font-size: 48px;
+}
+
+h3 {
+    color: $h3-font-color;
+    font-size: 32px;
+}
+
+footer {
+    margin-top:88%;
+    margin-left: 10px;
+}

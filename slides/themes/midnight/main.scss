@@ -1,0 +1,13 @@
+/* @theme midnight */
+
+/* Variables */
+$theme-background:#D7E7F7;
+$h1-font-color: #00296E;
+$h2-font-color: #0584FF;
+$h3-font-color: #FAB709;
+
+$title-slide-bg-color: #00296E;
+$title-slide-h1-color: #D7E7F7;
+
+@import '../common.scss';
+@import 'title-slide.scss';

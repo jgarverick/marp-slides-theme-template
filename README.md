@@ -1,14 +1,16 @@
-# marp-slides-template
+# marp-slides-theme-template
 
-[Use this template!](https://github.com/codebytes/marp-slides-template/generate)
+[Use this template!](https://github.com/jgarverick/marp-slides-theme-template/generate)
 
-This is a *minimal* template to create a [marp] site that:
+This is a *slightly* less minimal template to create a [marp] site that:
 
-- can be built and published on [GitHub Pages];
+- can build [Sass] and use [CSS] custom themes 
+- can be built and published on [GitHub Pages]
 
 More specifically, the created site:
 
 - uses marp
+- uses Sass to manage common element styles, classes for specific slide types (i.e. title), and variables for theme colors
 - uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
 - has a DevContainer/CodeSpace configured with Marp and Markdown preview extensions ready
   - chrome is also added as it's needed in linux to make powerpoint slides
@@ -51,7 +53,7 @@ The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party 
 
 - [GitHub Pages](https://docs.github.com/en/pages)
 - [GitHub Pages / Actions workflow](https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/)
-- [Use this template](https://github.com/codebytes/marp-slides-template/generate)
+- [Use this template](https://github.com/jgarverick/marp-slides-theme-template/generate)
 - [MIT License](https://en.wikipedia.org/wiki/MIT_License)
 - [Starter workflows](https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml)
 - [Actions/starter-workflows](https://github.com/actions/starter-workflows/blob/main/LICENSE)
